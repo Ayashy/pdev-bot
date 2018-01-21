@@ -10,8 +10,8 @@ For the time being, the only feature that's available is an echo reply
 
 # Tech details
 
-Facebook page : https://www.facebook.com/Pdev-bot-171876766913598/
-Heroku app : https://dashboard.heroku.com/apps/pdev-bot 
+- Facebook page : https://www.facebook.com/Pdev-bot-171876766913598/
+- Heroku app : https://dashboard.heroku.com/apps/pdev-bot 
 
 # Ressources
 
